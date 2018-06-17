@@ -1,5 +1,5 @@
 {
-    "profiles" :
+    "profiles" : [
     {
         "id" : 1,
         "name" : "john",
@@ -15,3 +15,6 @@
         "name" : "jack",
         "age" : 41
     }
+        
+    ]
+}
